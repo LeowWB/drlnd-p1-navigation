@@ -44,11 +44,12 @@ This project involves training an agent to navigate (and collect bananas!) in a 
 
 3. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
-4. Copy the following files from this repository into the `p1_navigation/` folder of the DRLND GitHub repository: `Navigation.ipynb`, `dqn_agent.py`, `model.py`.
+4. Copy all files from the `src/` directory of this repository, into the `p1_navigation/` folder of the DRLND GitHub repository.
 
 ### Instructions
 
-1. Execute `jupyter notebook` and open `Navigation.ipynb`.
-2. To train an agent from scratch, simply run the code cells in sections 1 through 3.
-3. To test the trained agent and visualize its performance and behavior, run the code cell in section 4.
-4. When done, close the environment by running the code cell in section 5.
+1. Navigate to the `p1_navigation/` directory of the DRLND repository.
+2. Execute `jupyter notebook` and open `Navigation.ipynb`.
+3. To train an agent from scratch, simply run the code cells in sections 1 through 3.
+4. To test the trained agent and visualize its performance and behavior, run the code cell in section 4.
+5. When done, close the environment by running the code cell in section 5.
